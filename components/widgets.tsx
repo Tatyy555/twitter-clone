@@ -17,7 +17,7 @@ function Widgets() {
 
       <TwitterTimelineEmbed
         sourceType="profile"
-        screenName="sonnysangha"
+        screenName="NHKWORLD_News"
         options={{ height: 1000 }}
       />
     </div>
